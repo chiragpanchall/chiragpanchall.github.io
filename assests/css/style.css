@@ -171,6 +171,11 @@ header .navbar ul li a:hover{
   header .navbar.nav-toggle{
     right: 0;
   }
+  form .button-area{
+    display: block;
+    float: right;
+    flex-direction: row-reverse;
+  }
 }
 /* hamburger icon ends */
 
@@ -1132,6 +1137,11 @@ form .button-area{
     width: 100%;
     margin-right: 2rem;
   }
+  form .button-area{
+    display: block;
+    float: right;
+    flex-direction: row-reverse;
+  }
 }
 /* contact section media queries ends */
 /* contact section ends */
@@ -1239,6 +1249,11 @@ form .button-area{
   .footer .box-container .box .share a{
     padding: 1.2rem;
   }
+  form .button-area{
+    display: block;
+    float: right;
+    flex-direction: row-reverse;
+  }
 }
 /* footer section ends */
 
@@ -1252,6 +1267,11 @@ form .button-area{
   }
   section{
     padding: 2rem;
+  }
+  form .button-area{
+    display: block;
+    float: right;
+    flex-direction: row-reverse;
   }
 }
 /* common media queries ends*/
